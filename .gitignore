@@ -1,0 +1,23 @@
+# Excel temporary files
+~$*.xls*
+~$*.xlsx
+~$*.xlsm
+
+# Excel files (keep .bas sources, ignore binaries)
+*.xlsx
+*.xls
+*.xlsm
+
+# Exception: keep example files if added
+!examples/*.xlsx
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code / editors
+.vscode/
+*.code-workspace
