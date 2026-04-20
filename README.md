@@ -212,7 +212,6 @@ Les contributions sont les bienvenues :
 - [ ] Version `MONENLET_AR` pour l'Arabe
 - [ ] Version `MONENLET_SW` pour le Swahili
 - [ ] Fichier `.xlsm` de démonstration prêt à l'emploi
-- [ ] Tests automatisés via un module VBA dédié
 
 ---
 
@@ -221,7 +220,7 @@ Les contributions sont les bienvenues :
 **Justin FARALAHY**
 - 🏢 [MAAS — Managn'Asa](https://managnasa.co) · Nosy Be, Madagascar
 - 📊 [Karamako.mg](https://karamako.mg) — Transparence salariale Madagascar
-- 🎨 Art'Régner Studio (ARS)
+- 🎨 [ARS - Madagascar](https://www.facebook.com/artregnerstudio/) — Art'Régner Studio (ARS)
 
 ---
 
