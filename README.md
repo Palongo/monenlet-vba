@@ -224,6 +224,12 @@ Les contributions sont les bienvenues :
 
 ---
 
+## API/Module
+
+*   "API REST disponible → [monenlet-api](https://monenlet-api.vercel.app/)"
+*   "Module Excel/VBA → [monenlet-vba](https://github.com/Palongo/monenlet-vba.git)"
+---
+
 ## Licence
 
 Ce projet est distribué sous licence **MIT** — voir [LICENSE](LICENSE).
