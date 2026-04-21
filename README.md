@@ -214,13 +214,18 @@ Les contributions sont les bienvenues :
 - [ ] Fichier `.xlsm` de démonstration prêt à l'emploi
 
 ---
+## 👨‍💻 Auteur
 
-## Auteur
+**Palongo**
+Entrepreneur & Analyste | Madagascar 🇲🇬
 
-**Justin FARALAHY**
-- 🏢 [MAAS — Managn'Asa](https://managnasa.co) · Nosy Be, Madagascar
-- 📊 [Karamako.mg](https://karamako.mg) — Transparence salariale Madagascar
-- 🎨 [ARS - Madagascar](https://www.facebook.com/artregnerstudio/) — Art'Régner Studio (ARS)
+---
+
+## ⭐ Support
+
+Si le projet te plaît :
+👉 Laisse une ⭐ sur GitHub
+👉 Partage le projet
 
 ---
 
